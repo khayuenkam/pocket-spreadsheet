@@ -11,6 +11,7 @@
     "stylus": "*",
     "node-pocket": "*",
     "google-spreadsheet": "*",
-    "underscore": "*"
+    "underscore": "*",
+    "q": "*"
   }
 }
