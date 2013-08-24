@@ -1,0 +1,21 @@
+{
+  "name": "pocket-spreadsheet",
+  "version": "0.0.1",
+  "homepage": "https://github.com/khayuenkam/pocket-spreadsheet",
+  "authors": [
+    "khayuen <khayuen@yahoo.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.0-rc.1",
+    "bootstrap": "git://github.com/twbs/bootstrap.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test",
+    "tests"
+  ]
+}
